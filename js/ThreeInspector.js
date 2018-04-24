@@ -915,7 +915,7 @@ function Widget(title, id, targetDom, method) {
 	var cssCommons =
 		'font-family:monospace;\
 		font-size: 11.5px;\
-		background-color: rgba(255,255,255,0.6);\
+		background-color: rgba(255,255,255,0.8);\
 		color: #333;\
 		text-shadow: 0px 1px 2px #ccc;';
 
