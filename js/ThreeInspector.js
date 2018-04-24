@@ -661,6 +661,7 @@ function addInspectChild(child, dom, i) {
 	}
 
 	if (isSprite) {
+		/*
 		d = createLineItem('rotation', createField(child, 'rotation'));
 		objectProps.appendChild(d);
 
@@ -670,6 +671,7 @@ function addInspectChild(child, dom, i) {
 		d.appendChild(createField(child.rotation3d, 'z'));
 
 		objectProps.appendChild(d);
+		*/
 	}
 
 	if (isCamera) {
